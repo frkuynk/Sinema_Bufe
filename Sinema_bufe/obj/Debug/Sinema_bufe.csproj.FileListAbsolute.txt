@@ -1,0 +1,10 @@
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\bin\Debug\Sinema_bufe.exe.config
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\bin\Debug\Sinema_bufe.exe
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\bin\Debug\Sinema_bufe.pdb
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.csproj.AssemblyReference.cache
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.Form1.resources
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.Properties.Resources.resources
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.csproj.GenerateResource.cache
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.csproj.CoreCompileInputs.cache
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.exe
+C:\Users\OmerUYANIK\source\repos\Sinema_bufe\Sinema_bufe\obj\Debug\Sinema_bufe.pdb
